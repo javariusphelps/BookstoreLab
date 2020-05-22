@@ -88,4 +88,32 @@ public class Bookstore {
 
     }
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setUsedBooks(boolean usedBooks) {
+        this.usedBooks = usedBooks;
+    }
+
+    public void setOpen(boolean isOpen) {
+        this.isOpen = isOpen;
+    }
+
+    public void setOpenWeekdays(boolean openWeekdays) {
+        this.openWeekdays = openWeekdays;
+    }
+
+    public void setOpenSunday(boolean openSunday) {
+        this.openSunday = openSunday;
+    }
+
+    public void setOpeningTime(String openingTime) {
+        this.openingTime = openingTime;
+    }
+
+    public void setClosingTime(String closingTime) {
+        this.closingTime = closingTime;
+    }
+
 }
