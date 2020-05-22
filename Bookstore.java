@@ -20,7 +20,7 @@ public class Bookstore {
         name = "Phelps Bookstore ";
         address = "2300 Circleberry Drive";
         sqFt = 1050;
-        usedBooks = false;
+        usedBooks = true;
         isOpen = true;
         openWeekdays = true;
         openSunday = true;
